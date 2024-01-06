@@ -1,0 +1,23 @@
+This is a simple GUI Calculator made using Python.
+
+User-friendly graphical user interface (GUI).
+
+Supports basic arithmetic operations like addition, subtraction, multiplication, and division, modulo.
+
+Easy-to-use buttons for numeric input and operations.
+
+AC button to reset the input field.
+
+It Calculates and displays results accurately.
+
+USAGE:
+
+Enter numbers by clicking the number buttons (0-9).
+
+Perform arithmetic operations by clicking the operation buttons (+, -, x, /,%).
+
+Click the "=" button to calculate the result.
+
+Click the "AC" button to clear the input field.
+
+The result will be displayed in the input field.
