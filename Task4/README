@@ -1,0 +1,9 @@
+This is a Simple Rock Paper Scissors Game.
+
+Initially it asks for the user name and then asks for the user choice either to enter rock or paper or scissors.
+
+It randomly generates a computer choice.
+
+Based on both the choices it displays the winner and calculates the points.
+
+Then it asks whether you are interested to play another game If yes again the same procedure repeats. If No it displays the points scored by the user and the computer.
