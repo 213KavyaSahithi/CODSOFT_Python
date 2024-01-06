@@ -1,0 +1,5 @@
+This is a simple Password Generator
+
+It asks the user to input the number of characters required for the password
+
+By clicking the generate password button it generates a random strong password
